@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanirathore24&label=Profile%20views&color=0e75b6&style=flat" alt="shivanirathore24" /> </p>
 
-- 🔭 I’m currently working on [ReactJS](https://github.com/shivanirathore24/Learn-ReactJS)
+- 🔭 I’m currently working on [NodeJS Project](https://github.com/shivanirathore24/E-Commerce-API)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivanirathore24?tab=repositories](https://github.com/shivanirathore24?tab=repositories)
 
