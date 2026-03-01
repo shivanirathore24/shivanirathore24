@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NodeJS Project](https://github.com/shivanirathore24/E-Commerce-API)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivanirathore24?tab=repositories](https://github.com/shivanirathore24?tab=repositories)
 
